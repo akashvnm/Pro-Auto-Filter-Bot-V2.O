@@ -4,9 +4,9 @@
 
 class Translation(object):
     
-    START_TEXT = """👋Hey {},
+    START_TEXT = """HAI 🖐️ {},
 
-NO GONNA HELP YOU 😂😂😂"""
+NO GONNA HELP YOU 😂"""
 
 
     GROUP = """
